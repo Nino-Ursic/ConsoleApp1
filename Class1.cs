@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         class NewClass
         {
-
+            // konflikt
         }
     }
 }
